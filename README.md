@@ -52,4 +52,5 @@ LIMIT 10;
 
 ---
 
-## 📂 S3 Structure
+
+## 📁 S3 Structure
