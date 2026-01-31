@@ -59,7 +59,7 @@ SELECT name, followers
 FROM spotify.datawarehouse
 ORDER BY followers DESC
 LIMIT 10;
-
+```
 ---
 
 ## 📸 Project Screenshots
