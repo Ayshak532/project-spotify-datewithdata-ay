@@ -42,4 +42,12 @@ This project follows real-world data engineering practices and cloud-native arch
 
 ---
 
+## 📊 Athena Query Examples
+Athena SQL queries are stored in the `athena/` directory for reproducibility.
+
+```sql
+SELECT *
+FROM spotify.datawarehouse
+LIMIT 10;
+
 ## 📂 S3 Structure
