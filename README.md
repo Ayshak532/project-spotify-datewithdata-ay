@@ -50,4 +50,6 @@ SELECT *
 FROM spotify.datawarehouse
 LIMIT 10;
 
+---
+
 ## 📂 S3 Structure
