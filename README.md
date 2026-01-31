@@ -59,3 +59,39 @@ SELECT name, followers
 FROM spotify.datawarehouse
 ORDER BY followers DESC
 LIMIT 10;
+
+---
+
+## 📸 Project Screenshots
+
+### S3 Data Storage
+![S3](screenshots/s3_bucket.png)
+
+### AWS Glue Visual ETL
+![Glue](screenshots/glue_visual_etl.png)
+
+### Athena Query Results
+![Athena](screenshots/athena_results.png)
+
+### 📂 Staging Layer (S3)
+The staging layer contains raw Spotify CSV datasets (`albums`, `artists`, `tracks`) used as input for AWS Glue ETL jobs.
+![Staging Layer](screenshots/s3_staging_files.png)
+
+### 🔧 AWS Glue Visual ETL Job
+![Glue Visual ETL](screenshots/glue_visual_etl.png)
+
+### ▶️ AWS Glue Job Execution
+![Glue Job Run](screenshots/glue_job_run.png)
+
+### 📊 Amazon Athena Query Validation
+![Athena Query](screenshots/athena_query.png)
+
+### 📊 Amazon Athena Query Validation
+
+**Query Execution**
+![Athena Query](screenshots/athena_query.png)
+
+**Query Results**
+![Athena Results](screenshots/athena_results.png)
+
+
