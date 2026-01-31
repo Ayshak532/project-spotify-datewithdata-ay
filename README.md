@@ -65,33 +65,33 @@ LIMIT 10;
 ## 📸 Project Screenshots
 
 ### S3 Data Storage
-![S3](screenshots/s3_bucket.png)
+![S3](screenshots/s3_bucket.jpeg)
 
 ### AWS Glue Visual ETL
-![Glue](screenshots/glue_visual_etl.png)
+![Glue](screenshots/glue_visual_etl.jpeg)
 
 ### Athena Query Results
-![Athena](screenshots/athena_results.png)
+![Athena](screenshots/athena_results.jpeg)
 
 ### 📂 Staging Layer (S3)
 The staging layer contains raw Spotify CSV datasets (`albums`, `artists`, `tracks`) used as input for AWS Glue ETL jobs.
-![Staging Layer](screenshots/s3_staging_files.png)
+![Staging Layer](screenshots/s3_staging_files.jpeg)
 
 ### 🔧 AWS Glue Visual ETL Job
-![Glue Visual ETL](screenshots/glue_visual_etl.png)
+![Glue Visual ETL](screenshots/glue_visual_etl.jpeg)
 
 ### ▶️ AWS Glue Job Execution
-![Glue Job Run](screenshots/glue_job_run.png)
+![Glue Job Run](screenshots/glue_job_run.jpeg)
 
 ### 📊 Amazon Athena Query Validation
-![Athena Query](screenshots/athena_query.png)
+![Athena Query](screenshots/athena_query.jpeg)
 
 ### 📊 Amazon Athena Query Validation
 
 **Query Execution**
-![Athena Query](screenshots/athena_query.png)
+![Athena Query](screenshots/athena_query.jpeg)
 
 **Query Results**
-![Athena Results](screenshots/athena_results.png)
+![Athena Results](screenshots/athena_results.jpeg)
 
 
