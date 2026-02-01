@@ -73,6 +73,15 @@ LIMIT 10;
 Raw Spotify CSV files (`albums`, `artists`, `tracks`) stored in the S3 staging layer.
 ![S3 Staging](screenshots/s3_staging_files.jpeg)
 
+🔗 Full processed datasets are linked in `data/staging/Processed_Data.txt`.
+
+🔗 **Note:** Full processed datasets are not uploaded to GitHub due to size constraints.  
+They can be accessed via **Google Drive** and are also stored in the **Amazon S3 staging layer**.
+
+📁 **Processed Data:**  
+[View datasets on Google Drive](https://drive.google.com/drive/folders/1PgZQDvw5GnvVQuhV7-MtxIZHnLsZA-Zs)
+
+
 ### 🔧 AWS Glue Visual ETL
 Visual ETL job created in AWS Glue to transform Spotify data.
 ![Glue Visual ETL](screenshots/glue_visual_etl.jpeg)
