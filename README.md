@@ -98,5 +98,10 @@ Querying transformed data using Amazon Athena.
 Validated transformed dataset using Athena query results.
 ![Athena Results](screenshots/athena_results.jpeg)
 
+---
+
+## Architecture Diagram
+
+![Architecture](architecture/spotify_architecture.png)
 
 
